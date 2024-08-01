@@ -29,7 +29,7 @@ By using Homelander, you also agree to comply with
 
 - [Discord Terms of Service](https://discord.com/terms)
 - [Discord Community Guidelines](https://discord.com/guidelines)
-- [Bot Privacy Policy](https://github.com/ZironDev/Guardian-Privacy-Policy).
+- [Bot Privacy Policy](https://github.com/VR1206/Homelander-Privacy-Policy.git).
 
 ## Violations and Consequences
 
